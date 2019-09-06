@@ -1,4 +1,4 @@
-# csci653_proj 
+# Csci653Project 
 ## Structure_Identification
 #### - Implement parallel computing methods to structure identification for atomistic simulations of composites
 
